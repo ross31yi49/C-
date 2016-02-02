@@ -1,0 +1,1 @@
+題目 : 實作能處理分數的各種運算的Rational Class
